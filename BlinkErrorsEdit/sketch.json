@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:avr:yun",
+    "name": "Arduino Yún",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
